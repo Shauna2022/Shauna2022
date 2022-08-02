@@ -7,7 +7,8 @@
 
 <br><br>Hello my name is KriShauna Fisher and I am a Full Stack Software Engineer. My skills include HTML, CSS, JavaScript and Python with a focous on web development. Before becoming a software engineer I worked under a goverment contract for the Stare of Michigan but wanted to get into a field that more in depth with the tech industry. I love that this field can be just as creative as it is challenging.
 
-https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg"  width="40" height="40"/>
+
 
 <ul>✨Fun Facts✨<br>
   <li>I am a self taught makeup artist💋💄</li>
